@@ -60,6 +60,9 @@ Feel free to get in touch in whatever way works best for you! However, if you’
 - Description of the problem.
 - Type of the issue and impact when exploited.
 - Steps to reproduce or a proof of concept (only on a valid system that you are authorized to perform such proof).
+- It's mandatory to inform if AI tools were used to find the issue being
+  reported, to automate or to write the report, POC code or possible patch. If
+  this was the case, then inform which AI tools and models were used.
 
 The more information you provide, the faster we will be able to reproduce the issue and address your concerns more effectively.
 
