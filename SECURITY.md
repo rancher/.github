@@ -4,9 +4,9 @@ At SUSE, we are deeply committed to maintaining the trust of our customers and t
 open-source community. Open collaboration, transparency, and secure product development are
 fundamental to our mission. 
 
-> ![IMPORTANT]
-> Please refer to our company-wide
-> [SUSE Coordinated Vulnerability Disclosure ("CVD") Policy][CVD Policy], for more information.
+> [!IMPORTANT]
+> Please refer to our company-wide 
+[SUSE Coordinated Vulnerability Disclosure ("CVD") Policy][CVD Policy], for more information.
 
 We go through all reported security issues, reviewing them with the project's maintainers and
 coordinating the fixes and disclosures. We credit all accepted reports from users and security
@@ -48,8 +48,10 @@ and signed email, please check the [section](#gpg-key---psirtsusecom) below for 
 ### What information to provide
 
 > [!IMPORTANT] The information below MUST be provided in order for the report to be timely and
-> effectively analyzed. Reports that miss the required information might be considered AI generated
-> spam or reviewed with a lower priority. 
+effectively analyzed.
+
+Reports that miss the required information might be considered AI generated spam or reviewed with a
+lower priority. 
 
 - **Product Name & Version**: Affected product and version, or GitHub source code link, if the issue
 was observed in the source code.
