@@ -16,7 +16,8 @@ researchers in our [Security Advisories][advisories].
 
 ### Valid
 
-Reported vulnerabilities must affect a supported version of the SUSE Rancher ecosystem. Refer to
+> [!WARNING] 
+> Reported vulnerabilities must affect a supported version of the SUSE Rancher ecosystem. Refer to 
 [SUSE Support Lifecycle][lifecycle] for current support status.
 
 Example of valid reports:
@@ -56,7 +57,7 @@ was observed in the source code.
 - **Impact**: Classification of issue type and potential impact when exploited.
 - **Steps to Reproduce** Clear, step-by-step reproduction instructions or proof of concept (POC).
 
-> [!TIP ]
+> [!TIP]
 > The more information you provide, the faster we will be able to reproduce the issue and address
 your concerns more effectively.
 
