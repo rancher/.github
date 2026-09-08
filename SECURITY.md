@@ -14,10 +14,6 @@ researchers in our [Security Advisories][advisories].
 
 ## What SUSE considers a valid vulnerability
 
-> [!CAUTION]
-> Do not attempt to test a possible vulnerability or a exploit on systems that you do not have an
-explicit authorization of its owner.
-
 ### Valid
 
 Reported vulnerabilities must affect a supported version of the SUSE Rancher ecosystem. Refer to
@@ -47,8 +43,9 @@ and signed email, please check the [section](#gpg-key---psirtsusecom) below for 
 
 ### What information to provide
 
-> [!IMPORTANT] The information below MUST be provided in order for the report to be timely and
-effectively analyzed.
+> [!WARNING]
+> The information below MUST be provided in order for the report to be timely and effectively
+analyzed.
 
 Reports that miss the required information might be considered AI generated spam or reviewed with a
 lower priority. 
@@ -59,8 +56,9 @@ was observed in the source code.
 - **Impact**: Classification of issue type and potential impact when exploited.
 - **Steps to Reproduce** Clear, step-by-step reproduction instructions or proof of concept (POC).
 
-The more information you provide, the faster we will be able to reproduce the issue and address your
-concerns more effectively.
+> [!TIP ]
+> The more information you provide, the faster we will be able to reproduce the issue and address
+your concerns more effectively.
 
 ### GPG Key - `psirt@suse.com`
 
