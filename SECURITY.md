@@ -120,7 +120,7 @@ CNPwEwU=
 
 ## SUSE Coordinated Vulnerability Disclosure ("CVD") Policy
 
-Please refer to our [SUSE Coordinated Vulnerability Disclosure ("CVD")Policy][CVD Policy], for more
+Please refer to our [SUSE Coordinated Vulnerability Disclosure ("CVD") Policy][CVD Policy], for more
 information about our commitments and what you can expect after reporting a vulnerability, as 
 well as how to make an anonymous report and more.
 
