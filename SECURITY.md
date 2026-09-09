@@ -37,7 +37,7 @@ development process.
 [documentation issues][doc issue] issues.
 - Self-inflicted issues requiring degraded security settings, or admin-only exploitation.
 
-## Reporting Instructions and Mandatory Requierements
+## Reporting Instructions and Mandatory Requirements
 
 Submit reports via email to [psirt@suse.com](mailto:psirt@suse.com). We recommend OpenPGP encrypted
 and signed email, please check the [section](#gpg-key---psirtsusecom) below for more details.
