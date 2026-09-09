@@ -14,6 +14,10 @@ researchers in our [Security Advisories][advisories].
 
 ## What SUSE considers a valid vulnerability
 
+> [!CAUTION]
+> Do not test potential exploits or vulnerabilities on any system without explicit authorization
+from the system owner.
+
 ### Valid
 
 > [!WARNING] 
